@@ -1,0 +1,2 @@
+print("ngwajgbjg")
+print("jbegOGB")
